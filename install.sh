@@ -11,3 +11,5 @@ echo "world"
 
 # pamac install ttf-ms-fonts
 # pamac install nerd-fonts-complete  
+
+echo "hello"
